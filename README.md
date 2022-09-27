@@ -1,3 +1,3 @@
-# NLP-Homework
+# NLP-Hometasks
 For NLP, HSE 3rd year (Kochetkova Irina)
-The files Bad examples and Good examples are the test files
+The files Bad examples and Good examples are the test files for the 1st HW
